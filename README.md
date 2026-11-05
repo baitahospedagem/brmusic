@@ -183,3 +183,11 @@ brmusic/
 - Sem servidor no ar, o painel de configuração persiste no `localStorage` e o teste de conexão de API não consegue chamar o provedor real.
 - Os instaladores de Windows e macOS são compilados no CI (o macOS exige runner macOS); localmente, só o Linux é empacotável.
 - A síntese é procedural: não há modelo de áudio treinado por trás. Nada é pré-gravado.
+
+---
+
+## Teste
+
+| Campo | Valor |
+|---|---|
+| Campo de teste | `valor-de-teste` |
